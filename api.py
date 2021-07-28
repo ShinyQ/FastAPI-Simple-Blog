@@ -1,6 +1,6 @@
 def builder(data, code):
     message = "Success"
-    
+
     if not code:
         code = 200
     elif code == 500 or code == 400:

@@ -2,3 +2,4 @@ fastapi~=0.66.0
 uvicorn
 sqlalchemy~=1.4.22
 pydantic~=1.8.2
+gunicorn
